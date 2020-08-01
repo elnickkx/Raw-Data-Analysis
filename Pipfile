@@ -12,6 +12,7 @@ seaborn = "*"
 pandas = "*"
 ipykernel = "*"
 sklearn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.6"
