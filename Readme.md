@@ -9,4 +9,5 @@ unzip folder -> Raw-Data-Analysis Folder
 5. ipython kernel install --user --name=Raw-Data-Analysis
 6. jupyter-notebook
 
+
 thanks!
